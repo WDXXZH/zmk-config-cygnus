@@ -30,5 +30,3 @@ include:
     shield: cygnus46_dongle dongle_display
   - board: seeeduino_xiao_ble
     shield: cygnus46_dongle dongle_display
-    cmake-args: -DCONFIG_ZMK_USB_LOGGING=y
-    artifact-name: cygnus46_dongle_with_logging
