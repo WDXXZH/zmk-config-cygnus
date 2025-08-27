@@ -28,5 +28,4 @@ include:
     shield: settings_reset
   - board: seeeduino_xiao_ble
     shield: cygnus46_dongle dongle_display
-  - board: seeeduino_xiao_ble
-    shield: cygnus46_dongle dongle_display
+    artifact-name: cygnus46_dongle
